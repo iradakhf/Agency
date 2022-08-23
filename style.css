@@ -1,0 +1,220 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.startBootstrap{
+    float: left;
+}
+.listOfNavItems{
+    list-style-type: none;
+    margin: 10px 0px;
+  float: right;
+}
+.listOfNavItems li{
+    float: left;
+    margin-left: 30px;
+}
+.listOfNavItems li a{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 8px;
+    letter-spacing: 0.95px;
+    font-weight: 400;
+    line-height: 23px;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}
+.listOfNavItems li a:hover{
+    color: rgba(248, 244, 10, 0.993);
+    font-size: 15px;
+    padding: 8px;
+    letter-spacing: 0.95px;
+    font-weight: 400;
+    line-height: 23px;
+    text-decoration-line: none;
+    text-transform: uppercase;
+}
+
+.nav{
+    overflow: auto;
+    padding: 30px 6rem;
+    background-color: black;
+}
+.startBootstrap h2 a{
+    color: rgba(248, 244, 10, 0.993);
+    font-weight: 600;
+    font-size: 2rem;
+    font-style: italic;
+    text-decoration: none;
+}
+.background{
+    background-image: url(images/header-bg.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 15% 0%;
+}
+.background .text{
+    color: wheat;
+    text-decoration: none;
+}
+.homeTextGeneral{
+    padding: 0% 12px;
+     margin: 10px 70px;
+     text-align: center;
+}
+.heading{
+    margin-bottom: 32px;
+}
+.homeTextGeneral h2{
+font-size: 36px;
+font-style: italic;
+font-weight: 400;
+line-height: 36px;
+
+}
+.homeTextGeneral h1{
+    font-size: 72px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 72px;
+    margin-bottom: 64px;
+    
+    }
+.homeTextGeneral a{
+    border-radius: 4px;
+    border-color: rgb(205, 200, 0);
+    background-color: rgb(205, 200, 0);
+    padding: 20px 50px;
+}
+.BTN{
+    margin-top: 80PX;
+    font-weight: 600;
+}
+.homeTextGeneral a:hover{
+    margin-top: 80PX;
+    font-weight: 600;
+    background-color: rgba(61, 60, 13, 0.884);
+    transition-duration: 0.5s;
+}
+.serviceTextGeneral h1{
+    color: rgb(58, 58, 58);
+    font-weight: 570;
+    font-size: 40px;
+    text-transform: uppercase;
+    line-height: 48px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.background2{
+    text-align: center;
+}
+.serviceTextGeneral p{
+    color: rgb(108, 117, 125);
+    font-weight: 400;
+    font-style: italic;
+    font-size: 16px;
+    text-transform: uppercase;
+    line-height: 19px;
+    margin-block-end: 64px;
+}
+.imgGeneral{
+    background-color: rgb(255, 200, 0);
+    float: left;
+    border-radius: 100%;
+    text-align: center;
+    width: 12%;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    overflow: auto;
+}
+.icons{
+ margin-left: 25%;
+
+}
+.icons .image1 img{
+    width: 50%;
+    padding-left: 5px;
+}
+.icons .image2 img{
+    width: 50%;
+}
+.icons .image3 img{
+    width: 40%;
+}
+.icons .image1{
+margin-right: 18%;
+}
+.icons .image2{
+    margin-right: 18%;
+}
+.icons .image3{
+    margin-right: 18%;
+}
+.icons .imgsPart{
+    margin-right: 10%;
+}
+
+.top h2{
+ float: left;
+ padding: 30px 50px;
+ margin-right: 10px;
+}
+.top{
+    border-left: 50%;
+    padding:0% 20%;
+}
+.bottom{
+    border-left: 50%;
+    padding:0% 10%;
+    margin-bottom: 1rem;
+    margin-left: 20%;
+    
+}
+.bottom p{
+    float: left;
+    width: 30%;
+    text-align: center;
+    line-height: 1.74;
+    height: 15%;
+
+   }
+   .bottom .t .t1{
+    margin-right: -6%;
+    margin-left: -17%;
+    padding-bottom: 5%;
+    max-block-size: 1rem;
+    color: #6c757d;
+    font-weight: 400;
+    font-size: 16px;
+   }
+   .bottom .t .t2{
+    margin-right: -6%;
+    margin-left: 10%;
+    color: #6c757d;
+    font-weight: 400;
+    font-size: 16px;
+   }
+   .bottom .t .t3{
+    margin-right: -6%;
+    margin-left: 10%;
+    color: #6c757d;
+    font-weight: 400;
+    font-size: 16px;
+   }
+   .pictures img{
+    float: left;
+    width: 28%;
+    height: 28%;
+    margin-left: 3%;
+    margin-top: 18px;
+    overflow: auto;
+   }
+   .pictures{
+    margin:5% 12px;
+    margin-left: 7%;
+    padding-top: 28%;
+   }
+  
