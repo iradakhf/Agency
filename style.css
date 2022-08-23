@@ -217,4 +217,35 @@ margin-right: 18%;
     margin-left: 7%;
     padding-top: 28%;
    }
+  .textSection{
+    text-align: center;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    margin-top: 12rem;
+    font-size: 1.5rem;
+  }
+  #portfolio{
+      background-color: white;
+      padding: 3rem 8rem;
+  }
   
+.imgPart img{
+   width: 100%;
+  }
+  .imgSection{
+    width: 28%;
+    float: left;
+    margin: 0% 2%;
+  }
+  .textSection p{
+     color: rgb(108, 117, 125);
+     font-style: italic;
+     font-size: 16px;
+     padding-top: 2rem;
+  }
+  .txt p{
+    color: rgb(108, 117, 125);
+    font-style: italic;
+    font-size: 16px;
+ }
+ 
